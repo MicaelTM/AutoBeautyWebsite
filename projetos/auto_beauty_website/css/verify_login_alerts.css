@@ -1,0 +1,43 @@
+html {
+    background: url(../images/verify_login_alerts.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-color: black;
+}
+
+.custom_alert {
+    left: 0;
+    right: 0;
+    z-index: 1;
+    width: 18vw;
+    height: auto;
+    padding: 1.5vw;
+    font-size: 0.8vw;
+    margin: 40vh auto;
+    font-weight: bold;
+    text-align: center;
+    font-family: arial;
+    border-radius: 2vw;
+    background-color: white;
+}
+
+.centering {
+    height: auto;
+    margin: auto;
+    position: relative;
+}
+
+.custom_alert button {
+    border: 0;
+    color: white;
+    margin-top: 1vw;
+    cursor: pointer;
+    font-size: 0.8vw;
+    font-weight: bold;
+    border-radius: 1vw;
+    padding: 0.8vw 2vw 0.8vw 2vw;
+    box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.04);
+    background: linear-gradient(to right, orangered, #c60000);
+}

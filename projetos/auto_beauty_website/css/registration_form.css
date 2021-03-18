@@ -1,0 +1,78 @@
+html {
+    background: url(../images/registration_form.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-color: black;
+}
+
+body {
+    color: white;
+    font-family: Arial;
+}
+
+.main {
+    width: 20vw;
+    height: auto;
+    margin-top: 8vw;
+    margin-left: 65vw;
+    border-radius: 2vw;
+    padding-bottom: 1.2vw;
+    background-color: white;
+}
+
+.sign {
+    color: black;
+    font-weight: 700;
+    font-size: 1.4vw;
+    padding-top: 2.5vw;
+    letter-spacing: 0.05vw;
+}
+
+form.form1 {
+    padding-top: 1vw;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.inputs::placeholder {
+    font-family: Arial;
+}
+
+.inputs {
+    width: 15vw;
+    color: grey;
+    border: none;
+    outline: none;
+    font-size: 0.8vw;
+    font-weight: bold;
+    text-align: center;
+    font-family: Arial;
+    padding: 0.8vw 1vw;
+    border-radius: 1vw;
+    margin-bottom: 1.5vw;
+    box-sizing: border-box;
+    background: rgb(240,240,240);
+    border: 2px solid rgba(0, 0, 0, 0.02);
+}
+
+.submit {
+    border: 0;
+    color: white;
+    cursor: pointer;
+    font-size: 0.8vw;
+    font-weight: bold;
+    border-radius: 1vw;
+    padding: 0.8vw 2vw 0.8vw 2vw;
+    box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.04);
+    background: linear-gradient(to right, orangered, #c60000);
+}
