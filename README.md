@@ -15,7 +15,7 @@ COMO COLOCAR O WEBSITE A FUNCIONAR NA TOTALIDADE NUMA MÁQUINA LOCAL PARA VISUAL
 7º - Abrir o website num browser à escolha com o link: "http://localhost/projetos/auto_beauty_website/login_form.php" e começar a experimentar, criando uma conta.
 
 
->>>>> NOTAS <<<<<
+------- NOTAS -------
 
 1 - NÃO PASSAR NENHUM PASSO Á FRENTE, ESPECIALMENTE O 3º PARA PODER ENVIAR E RECEBER O EMAIL DE CONFIRMAÇÃO DE REGISTO DE CONTA PARA ATIVAR ESTA, SENÂO NÃO SERÁ POSSIVÉL FAZER LOGIN;
 
